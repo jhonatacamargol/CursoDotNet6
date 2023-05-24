@@ -1,0 +1,15 @@
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\bin\Debug\net6.0\NullableTypes1.exe
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\bin\Debug\net6.0\NullableTypes1.deps.json
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\bin\Debug\net6.0\NullableTypes1.runtimeconfig.json
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\bin\Debug\net6.0\NullableTypes1.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\bin\Debug\net6.0\NullableTypes1.pdb
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\obj\Debug\net6.0\NullableTypes1.csproj.AssemblyReference.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\obj\Debug\net6.0\NullableTypes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\obj\Debug\net6.0\NullableTypes1.AssemblyInfoInputs.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\obj\Debug\net6.0\NullableTypes1.AssemblyInfo.cs
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\obj\Debug\net6.0\NullableTypes1.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\obj\Debug\net6.0\NullableTypes1.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\obj\Debug\net6.0\refint\NullableTypes1.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\obj\Debug\net6.0\NullableTypes1.pdb
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\obj\Debug\net6.0\NullableTypes1.genruntimeconfig.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\NullableTypes1\obj\Debug\net6.0\ref\NullableTypes1.dll
