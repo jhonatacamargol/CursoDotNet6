@@ -1,0 +1,15 @@
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\bin\Debug\net6.0\TipoDataTime1.exe
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\bin\Debug\net6.0\TipoDataTime1.deps.json
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\bin\Debug\net6.0\TipoDataTime1.runtimeconfig.json
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\bin\Debug\net6.0\TipoDataTime1.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\bin\Debug\net6.0\TipoDataTime1.pdb
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\obj\Debug\net6.0\TipoDataTime1.csproj.AssemblyReference.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\obj\Debug\net6.0\TipoDataTime1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\obj\Debug\net6.0\TipoDataTime1.AssemblyInfoInputs.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\obj\Debug\net6.0\TipoDataTime1.AssemblyInfo.cs
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\obj\Debug\net6.0\TipoDataTime1.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\obj\Debug\net6.0\TipoDataTime1.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\obj\Debug\net6.0\refint\TipoDataTime1.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\obj\Debug\net6.0\TipoDataTime1.pdb
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\obj\Debug\net6.0\TipoDataTime1.genruntimeconfig.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\TipoDataTime1\obj\Debug\net6.0\ref\TipoDataTime1.dll

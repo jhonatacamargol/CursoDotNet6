@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TipoDataTime1/1.0.0": {
+        "runtime": {
+          "TipoDataTime1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TipoDataTime1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
