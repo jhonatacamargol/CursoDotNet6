@@ -1,0 +1,15 @@
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\bin\Debug\net6.0\ConvercaoDeTipos.exe
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\bin\Debug\net6.0\ConvercaoDeTipos.deps.json
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\bin\Debug\net6.0\ConvercaoDeTipos.runtimeconfig.json
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\bin\Debug\net6.0\ConvercaoDeTipos.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\bin\Debug\net6.0\ConvercaoDeTipos.pdb
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\obj\Debug\net6.0\ConvercaoDeTipos.csproj.AssemblyReference.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\obj\Debug\net6.0\ConvercaoDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\obj\Debug\net6.0\ConvercaoDeTipos.AssemblyInfoInputs.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\obj\Debug\net6.0\ConvercaoDeTipos.AssemblyInfo.cs
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\obj\Debug\net6.0\ConvercaoDeTipos.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\obj\Debug\net6.0\ConvercaoDeTipos.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\obj\Debug\net6.0\refint\ConvercaoDeTipos.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\obj\Debug\net6.0\ConvercaoDeTipos.pdb
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\obj\Debug\net6.0\ConvercaoDeTipos.genruntimeconfig.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\ConvercaoDeTipos\obj\Debug\net6.0\ref\ConvercaoDeTipos.dll
