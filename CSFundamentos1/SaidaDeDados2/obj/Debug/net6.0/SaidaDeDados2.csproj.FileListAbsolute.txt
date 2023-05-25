@@ -1,0 +1,15 @@
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\bin\Debug\net6.0\SaidaDeDados2.exe
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\bin\Debug\net6.0\SaidaDeDados2.deps.json
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\bin\Debug\net6.0\SaidaDeDados2.runtimeconfig.json
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\bin\Debug\net6.0\SaidaDeDados2.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\bin\Debug\net6.0\SaidaDeDados2.pdb
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\obj\Debug\net6.0\SaidaDeDados2.csproj.AssemblyReference.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\obj\Debug\net6.0\SaidaDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\obj\Debug\net6.0\SaidaDeDados2.AssemblyInfoInputs.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\obj\Debug\net6.0\SaidaDeDados2.AssemblyInfo.cs
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\obj\Debug\net6.0\SaidaDeDados2.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\obj\Debug\net6.0\SaidaDeDados2.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\obj\Debug\net6.0\refint\SaidaDeDados2.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\obj\Debug\net6.0\SaidaDeDados2.pdb
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\obj\Debug\net6.0\SaidaDeDados2.genruntimeconfig.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\SaidaDeDados2\obj\Debug\net6.0\ref\SaidaDeDados2.dll
