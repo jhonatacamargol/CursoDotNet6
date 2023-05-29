@@ -1,0 +1,15 @@
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\bin\Debug\net6.0\Procedenciaoperadores1.exe
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\bin\Debug\net6.0\Procedenciaoperadores1.deps.json
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\bin\Debug\net6.0\Procedenciaoperadores1.runtimeconfig.json
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\bin\Debug\net6.0\Procedenciaoperadores1.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\bin\Debug\net6.0\Procedenciaoperadores1.pdb
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\obj\Debug\net6.0\Procedenciaoperadores1.csproj.AssemblyReference.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\obj\Debug\net6.0\Procedenciaoperadores1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\obj\Debug\net6.0\Procedenciaoperadores1.AssemblyInfoInputs.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\obj\Debug\net6.0\Procedenciaoperadores1.AssemblyInfo.cs
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\obj\Debug\net6.0\Procedenciaoperadores1.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\obj\Debug\net6.0\Procedenciaoperadores1.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\obj\Debug\net6.0\refint\Procedenciaoperadores1.dll
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\obj\Debug\net6.0\Procedenciaoperadores1.pdb
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\obj\Debug\net6.0\Procedenciaoperadores1.genruntimeconfig.cache
+C:\Users\jhona\Documents\repositoriogit\CursoDotNet6\CSFundamentos1\Procedenciaoperadores1\obj\Debug\net6.0\ref\Procedenciaoperadores1.dll

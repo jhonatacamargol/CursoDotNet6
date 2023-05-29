@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constantes1", "Constantes1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresIncrementoDecremento1", "OperadoresIncrementoDecremento1\OperadoresIncrementoDecremento1.csproj", "{9BF8CCD2-7943-4E2F-82AF-5AD7B7658CA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresRelacionais", "OperadoresRelacionais\OperadoresRelacionais.csproj", "{A43C5F7E-EB20-4B0F-958B-5F1EA6A3210A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresRelacionais", "OperadoresRelacionais\OperadoresRelacionais.csproj", "{A43C5F7E-EB20-4B0F-958B-5F1EA6A3210A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{774E00FC-EB77-40EC-BD8D-D94F25B278B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{774E00FC-EB77-40EC-BD8D-D94F25B278B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcedenciaOperadores1", "Procedenciaoperadores1\ProcedenciaOperadores1.csproj", "{9DCF9907-8051-4904-9F93-FB1B825097BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{774E00FC-EB77-40EC-BD8D-D94F25B278B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{774E00FC-EB77-40EC-BD8D-D94F25B278B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{774E00FC-EB77-40EC-BD8D-D94F25B278B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCF9907-8051-4904-9F93-FB1B825097BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCF9907-8051-4904-9F93-FB1B825097BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCF9907-8051-4904-9F93-FB1B825097BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCF9907-8051-4904-9F93-FB1B825097BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
