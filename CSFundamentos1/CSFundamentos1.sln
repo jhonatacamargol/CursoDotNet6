@@ -37,13 +37,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresRelacionais", "Op
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresLogicos", "OperadoresLogicos\OperadoresLogicos.csproj", "{774E00FC-EB77-40EC-BD8D-D94F25B278B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcedenciaOperadores1", "Procedenciaoperadores1\ProcedenciaOperadores1.csproj", "{9DCF9907-8051-4904-9F93-FB1B825097BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcedenciaOperadores1", "Procedenciaoperadores1\ProcedenciaOperadores1.csproj", "{9DCF9907-8051-4904-9F93-FB1B825097BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposReferenciaAnulaveis1", "TiposReferenciaAnulaveis1\TiposReferenciaAnulaveis1.csproj", "{6BBA998F-B686-435F-9C63-CDFC2F0F22C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposReferenciaAnulaveis1", "TiposReferenciaAnulaveis1\TiposReferenciaAnulaveis1.csproj", "{6BBA998F-B686-435F-9C63-CDFC2F0F22C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorUniarioTernario1", "OperadorUniarioTernario1\OperadorUniarioTernario1.csproj", "{849392DF-B4D8-424A-BAEB-4F029F1360A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadorUniarioTernario1", "OperadorUniarioTernario1\OperadorUniarioTernario1.csproj", "{849392DF-B4D8-424A-BAEB-4F029F1360A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosFase2", "ExerciciosFase2\ExerciciosFase2.csproj", "{95A3705C-32E1-43BA-9191-7C1A152BFBB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosFase2", "ExerciciosFase2\ExerciciosFase2.csproj", "{95A3705C-32E1-43BA-9191-7C1A152BFBB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1Estrutura_If", "1Estrutura_If\1Estrutura_If.csproj", "{DD32E0A2-B23D-4233-8D97-823E4D33EBDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{95A3705C-32E1-43BA-9191-7C1A152BFBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95A3705C-32E1-43BA-9191-7C1A152BFBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95A3705C-32E1-43BA-9191-7C1A152BFBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD32E0A2-B23D-4233-8D97-823E4D33EBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD32E0A2-B23D-4233-8D97-823E4D33EBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD32E0A2-B23D-4233-8D97-823E4D33EBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD32E0A2-B23D-4233-8D97-823E4D33EBDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
