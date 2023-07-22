@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Fundamentos",
+    "\\Fundamentos\\EntradaDeDados"
   ],
-  "SelectedNode": "\\InferenciaTipo1",
+  "SelectedNode": "\\Fundamentos\\EntradaDeDados\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

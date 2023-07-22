@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciciosFase2", "Exercici
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1Estrutura_If", "1Estrutura_If\1Estrutura_If.csproj", "{DD32E0A2-B23D-4233-8D97-823E4D33EBDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura_if_else_if", "Estrutura_if_else_if\Estrutura_if_else_if.csproj", "{A3C4E3AA-A963-492E-8136-2C97B16EC31B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{DD32E0A2-B23D-4233-8D97-823E4D33EBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD32E0A2-B23D-4233-8D97-823E4D33EBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD32E0A2-B23D-4233-8D97-823E4D33EBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C4E3AA-A963-492E-8136-2C97B16EC31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C4E3AA-A963-492E-8136-2C97B16EC31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C4E3AA-A963-492E-8136-2C97B16EC31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C4E3AA-A963-492E-8136-2C97B16EC31B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
